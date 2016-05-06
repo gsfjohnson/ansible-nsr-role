@@ -1,0 +1,6 @@
+---
+
+nsr_svc_name: networker
+nsr_svc_state: started
+nsr_svc_enabled: true
+
